@@ -71,8 +71,8 @@
 
 ![ai4edu-ESWIwPP-qrcode](img/ai4edu-ESWIwPP-qrcode.png)
 
-<img src="img/linebot/linebot001.PNG" width="125">  |  <img src="img/linebot/linebot002.PNG" width="125"> | <img src="img/linebot/linebot003.PNG" width="125"> | <img src="img/linebot/linebot004.PNG" width="125">| <img src="img/linebot/linebot005.PNG" width="125">
-:-------------------------:|:-----:|:---:|:------:|:----------:
+<img src="img/linebot/linebot000.PNG" width="125"> | <img src="img/linebot/linebot001.PNG" width="125">  |  <img src="img/linebot/linebot002.PNG" width="125"> | <img src="img/linebot/linebot003.PNG" width="125"> | <img src="img/linebot/linebot004.PNG" width="125">| <img src="img/linebot/linebot005.PNG" width="125">
+:-------------------------:|:-----:|:---:|:------:|:----------:|:---|
 
 ## Why Us (為什麼是由我們來做)
 
