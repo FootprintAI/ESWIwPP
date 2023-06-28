@@ -81,9 +81,12 @@
 ## 合作夥伴
 
 
-<img src="img/tintin.png" width="125">  |  <img src="img/partners/msys_uot.png" width="100"> | <img src="img/partners/nku-airc.png" width="100"> | 
-:-------------------------:|:-----:|:---:|:----------------:
-<img src="img/partners/nku-dkhl.jpeg" width="250"> | <img src="img/partners/ccu-ai-center.png" width="250"> |
+<a href="https://get-tintin.footprint-ai.com"><img src="img/tintin.png" width="125"></a>  |  <a href="https://dhw.utaipei.edu.tw/"><img src="img/partners/msys_uot.png" width="100"></a> | <a href="https://www.airc.nuk.edu.tw/"><img src="img/partners/nku-airc.png" width="100"></a> | 
+:-------------------------:|:-----:|:---:|
+
+
+<a href="https://dkhl.nuk.edu.tw/"><img src="img/partners/nku-dkhl.jpeg" width="250"></a> | <a href="https://ai4sdc.ccu.edu.tw/" ><img src="img/partners/ccu-ai-center.png" width="250"></a>
+:-------------------------:|:-----:
 
 
 
