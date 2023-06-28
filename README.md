@@ -71,6 +71,9 @@
 
 ![ai4edu-ESWIwPP-qrcode](img/ai4edu-ESWIwPP-qrcode.png)
 
+<img src="img/linebot/linebot001.png" width="125">  |  <img src="img/linebot/linebot002.png" width="125"> | <img src="img/linebot/linebot003.png" width="125"> | <img src="img/linebot/linebot004.png" width="125">| <img src="img/linebot/linebot005.png" width="125">
+:-------------------------:|:-----:|:---:|:------:|:----------:
+
 ## Why Us (為什麼是由我們來做)
 
 信誠金融科技(footprint-ai.com)長期關注與發展機器學習生態圈下的軟體基礎建設(software infrastructure)，而因近期的AI領域與發展，我們意識到幾個可能的社會現象:
