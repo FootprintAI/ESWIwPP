@@ -1,4 +1,4 @@
-# ESWIwPP
+# AI4EDU - ESWIwPP
 
 
 ## Motivation (動機)
@@ -25,7 +25,7 @@
 
 ## We Proposed ESWIwPP (計畫發起)
 
-有鑑於此，我們發起了ESWIwPP(Enhancing Social Welfare Issues with Public Participation) 這個專案計畫內容，此內容意旨在於欲透過公眾參與的方式來提升社會福祉。公眾參與的方式分成底下幾種:
+有鑑於此，我們發起了AI4EDU - ESWIwPP(Enhancing Social Welfare Issues with Public Participation) 這個專案計畫內容，此內容意旨在於欲透過公眾參與的方式來提升社會福祉。公眾參與的方式分成底下幾種:
 
 1. 公益需求端的參與：公益需求端可由發起人(個人或社福團體法人）進行提案，提案內容需要包含詳細需求描述，簡述有哪些可以運用的資料集以及如何進行結果驗證。
 2. AI/ML 技術端的提供：AI/ML技術端可由社群人員針對單一需求貢獻模型建置演算法。
